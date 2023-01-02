@@ -11,6 +11,3 @@ def reset_database
 end
 
 reset_database
-
-binding.pry
-"pls"
